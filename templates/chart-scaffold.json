@@ -1,0 +1,10 @@
+{
+  "sun": "28° Libra",
+  "mercury": "11° Libra",
+  "moon_transit": "Aquarius",
+  "mars": "Sagittarius",
+  "chiron": "Aries",
+  "synastry_aspects": [
+    { "aspect": "trine", "from": "Sun♎︎", "to": "Moon♒︎" },
+    { "aspect": "square", "from": "Mars♐︎", "to": "Chiron♈︎" }
+  ]
